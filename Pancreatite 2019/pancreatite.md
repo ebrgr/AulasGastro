@@ -23,9 +23,9 @@
 	Hipertrigliceridemia é a terceira mais comum causa de PA correspondendo por 10% de todos os casos e 50% dos casos na gestação. Ocorre quando seus níveis excedem cerca de 1000 mg/dL. O triglicerídeo em si não parece ser o causador direto do dano mas sim a inflamação gerada pelos ácidos graxos livres produzidos com a quebra dos triglicerídeos pela lipase pancreática.
 
 ###Outras Causas
-Diversos medicamentos podem causar pancreatite a tabela incluem somente medicamentos classicamente comprovados causadores de pancreatite.
-Outras causas incluem hipercalcemia, fibrose, etiologias auto-imunes, toxinas, veneno de escorpião e etiologias congênitas.
-Em cerca de 25% das vezes não se consegue determinar a causa definitiva da inflamação pancreática.
+	Diversos medicamentos podem causar pancreatite a tabela incluem somente medicamentos classicamente comprovados causadores de pancreatite.
+	Outras causas incluem hipercalcemia, fibrose, etiologias auto-imunes, toxinas, veneno de escorpião e etiologias congênitas.
+	Em cerca de 25% das vezes não se consegue determinar a causa definitiva da inflamação pancreática.
 
 
 
